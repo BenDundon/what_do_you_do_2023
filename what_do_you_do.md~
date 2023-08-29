@@ -208,3 +208,5 @@ Also yes but I was at a CTF so it was funny
 # Exit(0)
 
 Git the slides: [https://github.com/BenDundon/what_do_you_do_2023](https://github.com/BenDundon/what_do_you_do_2023)
+Slides program: [https://github.com/maaslalani/slides](https://github.com/maaslalani/slides)
+Ascii art:	[https://www.asciiart.eu](https://www.asciiart.eu)

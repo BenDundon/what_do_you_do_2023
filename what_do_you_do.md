@@ -53,7 +53,7 @@ All art from www.asciiart.eu
 cowsay "Hello Rotaract!"
 ```
 
-- Benjamin "Ben" Dundon
+- Benjamin "Ben" Dundon [He/Him]
 	- "Darohan"
 		- Not "Durryhands"
 - Member since 2021
